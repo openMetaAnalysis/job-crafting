@@ -28,7 +28,7 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior [
 
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 ![Principle results](files/forest-plots/Outcome-Primary.png)
-![Principle results](files/forest-plots/Outcome-Secondary-EE.png)
+![Principle results](files/forest-plots/Outcome-Secondary-E.png)
 ![Principle results](files/forest-plots/Outcome-Secondary-TP.png)
 
 The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available.  (under construction)
@@ -46,9 +46,6 @@ References:
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
 1.  Gordon HJ, Demerouti E, Le Blanc PM, Bakker AB, Bipp T, Verhagen MAMT. Individual job redesign: Job crafting interventions in healthcare. Journal of Vocational Behavior. 2018 Feb;104:98–114.  doi: [10.1016/j.jvb.2017.07.002](http://dx.doi.org/10.1016/j.jvb.2017.07.002) *We extracted emotional exhaustion results from the original trial as this outcome was not reported by Oprea*
-
-1. Friedly JL, Comstock BA, Turner JA, Heagerty PJ, Deyo RA, Sullivan SD, Bauer Z, Bresnahan BW, Avins AL, Nedeljkovic SS, Nerenz DR, Standaert C, Kessler L, Akuthota V, Annaswamy T, Chen A, Diehn F, Firtch W, Gerges FJ, Gilligan C,
-Goldberg H, Kennedy DJ, Mandel S, Tyburski M, Sanders W, Sibell D, Smuck M, Wasan A, Won L, Jarvik JG. A randomized trial of epidural glucocorticoid injections for spinal stenosis. N Engl J Med. 2014 Jul 3;371(1):11-21. doi: [10.1016/j.jvb.2017.07.002](http://dx.doi.org/10.1016/j.jvb.2017.07.002). PMID: [24988555](http://pubmed.gov/24988555).
 
 #### Trial(s) included in the review above
 None
