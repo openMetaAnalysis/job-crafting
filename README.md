@@ -4,7 +4,10 @@ A living systematic review
 
 Short url: https://ebmgt.github.io/job-crafting/
 
-"Job crafting" is "workers actively change the actual or perceived characteristics of their jobs in order to better match the demands placed on them and the resources available" (Topa and Aranda-Carmena, 2022 PMID [36232011](http://pubmed.gov/36232011))​
+**Definitions** 
+* "Job crafting" is "workers actively change the actual or perceived characteristics of their jobs in order to better match the demands placed on them and the resources available" (Topa and Aranda-Carmena, 2022 PMID [36232011](http://pubmed.gov/36232011))​
+* "Collaborative job crafting" is "[workers] can jointly determine how to modify the work to meet their shared goals" (Topa and Aranda-Carmena, 2022 PMID [36232011](http://pubmed.gov/36232011))​
+* Job crafting can be combined with "knowledge sharing", such as Googler2Googler (G2) in which the organization helps disseminate successful job crafting.
 
 **Clinical summary:** This meta-analysis suggests that clinical intervention *is* moderately effective. [Standarized mean differences](https://training.cochrane.org/handbook/current/chapter-15#section-15-3) across outcomes range from 0.49 to 0.78. Heterogeneity of results as measured by I<sup>2</sup> was '[moderate](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at 0% for all analyses but very wide confidence intervals reflect the small number of studies and subjects. This review updates previously published meta-analysis(es).(citation[s] below)
 
