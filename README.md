@@ -41,7 +41,7 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1.  Oprea BT, Barzin L, Vîrgă D, Iliescu D, Rusu A. Effectiveness of job crafting interventions: a meta-analysis and utility analysis. European Journal of Work and Organizational Psychology. 2019 Nov 2;28(6):723–741. doi: [10.1080/1359432X.2019.1646728](http://dx.doi.org/10.1080/1359432X.2019.1646728)
+1.  Oprea BT, Barzin L, Vîrgă D, Iliescu D, Rusu A. Effectiveness of job crafting interventions: a meta-analysis and utility analysis. European Journal of Work and Organizational Psychology. 2019 Nov 2;28(6):723–741. doi: [10.1080/1359432X.2019.1646728](http://dx.doi.org/10.1080/1359432X.2019.1646728) *we have limited our review to studies within this review that were in a healthcare setting*
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
