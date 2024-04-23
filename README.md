@@ -49,14 +49,18 @@ References:
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
 1.  Gordon HJ, Demerouti E, Le Blanc PM, Bakker AB, Bipp T, Verhagen MAMT. Individual job redesign: Job crafting interventions in healthcare. Journal of Vocational Behavior. 2018 Feb;104:98–114.  doi: [10.1016/j.jvb.2017.07.002](http://dx.doi.org/10.1016/j.jvb.2017.07.002) *We extracted emotional exhaustion results from the original trial as this outcome was not reported by Oprea*
+2. Sakuraya A, Shimazu A, Imamura K, Kawakami N. Effects of a Job Crafting Intervention Program on Work Engagement Among Japanese Employees: A Randomized Controlled Trial. Front Psychol. 2020;11:235. PMCID: [PMC7047874](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7047874/)
+3. Pérez-Marqués M, Letona-Ibañez O, Amillano A, Carrasco M, Martínez-Rodríguez S. Effects of three personal resources interventions on employees’ burnout. Sci Rep. 2023 Dec 6;13(1):21530. PMCID: [PMC10700343](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10700343/)
 
 #### Trial(s) included in the review above
-None
+1.  Gordon HJ, Demerouti E, Le Blanc PM, Bakker AB, Bipp T, Verhagen MAMT. Individual job redesign: Job crafting interventions in healthcare. Journal of Vocational Behavior. 2018 Feb;104:98–114.  doi: [10.1016/j.jvb.2017.07.002](http://dx.doi.org/10.1016/j.jvb.2017.07.002)
+2.  Wingerden JV, Bakker AB, Derks D. A test of a job demands-resources intervention. Journal of Managerial Psychology. 2016 Apr 11;31(3):686–701. doi: [10.1108/JMP-03-2014-0086](http://dx.doi.org/10.1108/JMP-03-2014-0086)
 
 #### Trial(s) undergoing review
 None
 
 #### Trial(s) excluded - selected list of important trial(s)
+1.  Topa G, Aranda-Carmena M. Job Crafting in Nursing: Mediation between Work Engagement and Job Performance in a Multisample Study. Int J Environ Res Public Health. 2022 Oct 5;19(19):12711. PMCID: [PMC9566469](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9566469/) *Study results presented as correlations ratehr than effect sizes*
 
 #### Cited by
 This repository is cited by:
