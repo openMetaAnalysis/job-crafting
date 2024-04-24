@@ -9,9 +9,13 @@ Short url: https://ebmgt.github.io/job-crafting/
 * "Collaborative job crafting" is "[workers] can jointly determine how to modify the work to meet their shared goals" (Topa and Aranda-Carmena, 2022 PMID [36232011](http://pubmed.gov/36232011))​
 * Job crafting can be combined with "knowledge sharing", such as Googler2Googler (G2) in which the organization helps disseminate successful job crafting.
 
-**Clinical summary:** This meta-analysis suggests that clinical intervention *is* moderately effective. [Standarized mean differences](https://training.cochrane.org/handbook/current/chapter-15#section-15-3) across outcomes range from 0.49 to 0.78. Heterogeneity of results as measured by I<sup>2</sup> was '[moderate](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at 0% for all analyses but very wide confidence intervals reflect the small number of studies and subjects. This review updates previously published meta-analysis(es).(citation[s] below)
+**Clinical summary:** This meta-analysis suggests that the effectiveness of the clinical intervention *is* [moderate](https://training.cochrane.org/handbook/current/chapter-15#section-15-5-3-1). [Standarized mean differences](https://training.cochrane.org/handbook/current/chapter-15#section-15-3) betweeen intervention and control groups across outcomes range from 0.49 to 0.78. 
 
-Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
+Heterogeneity of results as measured by I<sup>2</sup> '[might not be important](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at 0% for all analyses; however very wide confidence intervals reflect the small number of studies and subjects. 
+
+Meta-regression of common modulators (year of publication, study size, event rate in the control groups) has not been done due to the small number of studies.
+
+This review updates previously published meta-analysis(es).(citation[s] below)
 
 * [Reconciliation of studies and conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20studies%20and%20conclusions.pdf) (under construction)
 <!-- * [Keep current with this topic](files/searching/Keep-up.md) -->
