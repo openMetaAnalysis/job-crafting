@@ -1,13 +1,13 @@
+# This file is available at https://github.com/ebmgt/NHS-Religion/
+# Author: Robert Badgett. rbadgett@kumc.edu 
+# Permission: GNU GPLv3 https://choosealicense.com/licenses/gpl-3.0/
+# Last edited 2024-04-21
 #This file is best used within R Studio and using the Studio's Document outline for navigation 
-# rbadgett@kumc.edu 
+
 
 ### Start ======================================= 
 version 
 citation(package = "base", lib.loc = NULL, auto = NULL) 
-
-### Remove previous variables 
-rm(list = ls()) 
-typeof('bob') 
 
 # If Rstudio 
 if (Sys.getenv("RSTUDIO") == "1"){ 
