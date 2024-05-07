@@ -5,7 +5,7 @@ A living systematic review
 Short url: https://ebmgt.github.io/job-crafting/
 
 **Definitions** 
-* "Job crafting" is "workers actively change the actual or perceived characteristics of their jobs in order to better match the demands placed on them and the resources available" (Topa and Aranda-Carmena, 2022 PMID [36232011](http://pubmed.gov/36232011))​
+* "Job crafting" is "self-initiated behaviours that employees take to shape, mold, and change their jobs" ([van Leeuwen, 2022](https://doi.org/10.3390/ijerph19095666))​ Another definition is, "workers actively change the actual or perceived characteristics of their jobs in order to better match the demands placed on them and the resources available" (Topa and Aranda-Carmena, 2022 PMID [36232011](http://pubmed.gov/36232011)).
 * "Collaborative job crafting" is "[workers] can jointly determine how to modify the work to meet their shared goals" (Topa and Aranda-Carmena, 2022 PMID [36232011](http://pubmed.gov/36232011))​
 * Job crafting can be combined with "knowledge sharing", such as Googler2Googler (G2) in which the organization helps disseminate successful job crafting.
 
