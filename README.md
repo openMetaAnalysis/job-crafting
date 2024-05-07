@@ -68,6 +68,7 @@ References:
 4. Pérez-Marqués M, Letona-Ibañez O, Amillano A, Carrasco M, Martínez-Rodríguez S. Effects of three personal resources interventions on employees’ burnout. Sci Rep. 2023 Dec 6;13(1):21530. PMCID: [PMC10700343](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10700343/) *No results for healthcare sites*
 5. Sakuraya A, Shimazu A, Imamura K, Kawakami N. Effects of a Job Crafting Intervention Program on Work Engagement Among Japanese Employees: A Randomized Controlled Trial. Front Psychol. 2020;11:235. PMCID: [PMC7047874](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7047874/) *No results for healthcare sites*
 6.  Topa G, Aranda-Carmena M. Job Crafting in Nursing: Mediation between Work Engagement and Job Performance in a Multisample Study. Int J Environ Res Public Health. 2022 Oct 5;19(19):12711. PMCID: [PMC9566469](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9566469/) *Study results presented as correlations rather than effect sizes*
+7.  Dyrbye LN, West CP, Richards ML, Ross HJ, Satele D, Shanafelt TD. A randomized, controlled study of an online intervention to promote job satisfaction and well-being among physicians. Burnout Research. 2016 Sep 1;3(3):69-75. *The intervention was not job crafting but focused more on exercises to build resiliency*
 
 #### Cited by
 This repository is cited by:
