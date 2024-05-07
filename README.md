@@ -49,6 +49,7 @@ References:
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
 1.  Oprea BT, Barzin L, Vîrgă D, Iliescu D, Rusu A. Effectiveness of job crafting interventions: a meta-analysis and utility analysis. European Journal of Work and Organizational Psychology. 2019 Nov 2;28(6):723–741. doi: [10.1080/1359432X.2019.1646728](http://dx.doi.org/10.1080/1359432X.2019.1646728) *we have limited our review to studies within this review that were in a healthcare setting*
+2.  Björk JM, Bolander P, Forsman AK. Bottom-Up Interventions Effective in Promoting Work Engagement: A Systematic Review and Meta-Analysis. Front Psychol. 2021;12:730421. PMID: [34566819](http://pubmed.gov/34566819)
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
@@ -69,6 +70,7 @@ References:
 5. Sakuraya A, Shimazu A, Imamura K, Kawakami N. Effects of a Job Crafting Intervention Program on Work Engagement Among Japanese Employees: A Randomized Controlled Trial. Front Psychol. 2020;11:235. PMCID: [PMC7047874](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7047874/) *No results for healthcare sites*
 6.  Topa G, Aranda-Carmena M. Job Crafting in Nursing: Mediation between Work Engagement and Job Performance in a Multisample Study. Int J Environ Res Public Health. 2022 Oct 5;19(19):12711. PMCID: [PMC9566469](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9566469/) *Study results presented as correlations rather than effect sizes*
 7.  Dyrbye LN, West CP, Richards ML, Ross HJ, Satele D, Shanafelt TD. A randomized, controlled study of an online intervention to promote job satisfaction and well-being among physicians. Burnout Research. 2016 Sep 1;3(3):69-75. *The intervention was not job crafting but focused more on exercises to build resiliency*
+8.  Dubbelt L, Demerouti E, Rispens S. The value of job crafting for work engagement, task performance, and career satisfaction: longitudinal and quasi-experimental evidence. European Journal of Work and Organizational Psychology. 2019 May 4;28(3):300-14.*No results for healthcare sites*
 
 #### Cited by
 This repository is cited by:
