@@ -53,13 +53,13 @@ References:
 3. Oprea BT, Barzin L, Vîrgă D, Iliescu D, Rusu A. Effectiveness of job crafting interventions: a meta-analysis and utility analysis. European Journal of Work and Organizational Psychology. 2019 Nov 2;28(6):723–741. doi: [10.1080/1359432X.2019.1646728](http://dx.doi.org/10.1080/1359432X.2019.1646728) *we have limited our review to studies within this review that were in a healthcare setting*
 4. Devotto RP, Wechsler SM. Job Crafting Interventions: Systematic Review. Temas Psicol. 2019;27(2):371–383. DOI: [10.9788/TP2019.2-06](http://doi.org/10.9788/TP2019.2-06)
 
-### Randomized controlled trials
-#### New trial(s) *not* included in the most recent review above
+### Randomized controlled trials or quasi-experimental studies
+#### New studies *not* included in the most recent review above
 1.  Gordon HJ, Demerouti E, Le Blanc PM, Bakker AB, Bipp T, Verhagen MAMT. Individual job redesign: Job crafting interventions in healthcare. Journal of Vocational Behavior. 2018 Feb;104:98–114.  doi: [10.1016/j.jvb.2017.07.002](http://dx.doi.org/10.1016/j.jvb.2017.07.002) *We extracted emotional exhaustion results from the original trial as this outcome was not reported by Oprea*
 
-#### Trial(s) included in the review above
+#### Studies included in the review above
 1.  Gordon HJ, Demerouti E, Le Blanc PM, Bakker AB, Bipp T, Verhagen MAMT. Individual job redesign: Job crafting interventions in healthcare. Journal of Vocational Behavior. 2018 Feb;104:98–114.  doi: [10.1016/j.jvb.2017.07.002](http://dx.doi.org/10.1016/j.jvb.2017.07.002)
-2.  Wingerden JV, Bakker AB, Derks D. A test of a job demands-resources intervention. Journal of Managerial Psychology. 2016 Apr 11;31(3):686–701. doi: [10.1108/JMP-03-2014-0086](http://dx.doi.org/10.1108/JMP-03-2014-0086)
+2.  Van Wingerden JV, Bakker AB, Derks D. A test of a job demands-resources intervention. Journal of Managerial Psychology. 2016 Apr 11;31(3):686–701. doi: [10.1108/JMP-03-2014-0086](http://dx.doi.org/10.1108/JMP-03-2014-0086)
 
 #### Trial(s) undergoing review
 1. van Leeuwen EH, Knies E, van Rensen ELJ, Taris TW. Stimulating Employability and Job Crafting Behaviour of Physicians: A Randomized Controlled Trial. Int J Environ Res Public Health. 2022 May 6;19(9):5666. doi: 10.3390/ijerph19095666. PMID: [35565061](http://pubmed.gov/35565061). *Outcome measures usable?*
