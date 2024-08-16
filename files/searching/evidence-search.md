@@ -1,15 +1,18 @@
 # Evidence search
 (under construction)
 ## Inclusion criteria
-Randomized trials of [disease] that compare [intervention] to placebo.
+Randomized trials or quasi-experimental studies of workforce well-being or performance that compare job crafting to no intervention..
 
 ## Reconciliation tables
 (under construction)
 * [Comparison of included studies with prior systematic reviews](files/reconciliation-tables/Reconciliation%20of%20studies%20and%20conclusions.pdf)
 
+## Google Scholar
+### Meta-analyses
+https://scholar.google.com/scholar?q=job+crafting+meta-analysis&hl=en
+
 ## PubMed
 ### Boolean term searching
-
 [supraventricular tachycardia AND Valsalva AND random\*](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=supraventricular%20tachycardia%20AND%20Valsalva%20AND%20random*)
 * Retrieves 5 articles in hand (100% sensitivity) (search 6/19/2017)
 * 12 total citations found (search results reviewed 6/x/2017; 0 additional studies found)
@@ -19,19 +22,22 @@ This resources has been discontinued by the National Library of Medicine. Detail
 * Badgett R, Hamill C, Sampson M, Weightman A, Brassey J, Dean T, Ebell M. Lost in translation - campaign to restore a useful tool not replicated in the new PubMed. OSF; 2020 Oct 5 [cited 2021 Jan 20]; Available from: https://osf.io/3cdny/
 
 ## ClinicalTrials.gov
-
 `supraventricular tachycardia AND Valsalva`
 * [1 citations](https://clinicaltrials.gov/ct2/results?term=supraventricular+tachycardia+AND+Valsalva&Search=Search) (search 6/19/2017)
   * [NCT02216240](https://clinicaltrials.gov/ct2/show/NCT02216240) (PMID [27613170](https://www.ncbi.nlm.nih.gov/pubmed/27613170)) did not meet inclusion criteria
 
 ## Cochrane Central Register of Controlled Trials (CENTRAL)
-
-`supraventricular tachycardia AND Valsalva`
-* [1 citations](http://onlinelibrary.wiley.com/cochranelibrary/search?submitSearch=Go&searchRows%5B0%5D.searchCriterias%5B0%5D.fieldRestriction=title+abstract+keywords&searchRows%5B0%5D.searchCriterias%5B0%5D.term=hypertension) (search 6/19/2017)
-  * [http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD005182/abstract](http://onlinelibrary.wiley.com/doi/10.1002/14651858.CD005182.pub4/full) (PMID [27613170](https://www.ncbi.nlm.nih.gov/pubmed/27613170)) did not meet inclusion criteria
+No applicable
 
 ## Cited reference searching
 (under construction)
+### Google Scholar
+#### Seed studies
+Gordon HJ, Demerouti E, Le Blanc PM, et al. Individual job redesign: job crafting interventions in Healthcare. Journal of Vocational Behavior 2018;104:98–114. DOI [10.1016/j.jvb.2017.07.002](https://doi.org/10.1016/j.jvb.2017.07.002)
+
+### PubMed
+#### Seed studies
+None available
 
 ### Identifying seminal studies that are the most highly cited
 Smith GD, Dyson K, Taylor D, Morgans A, Cantwell K. Effectiveness of the Valsalva Manoeuvre for reversion of supraventricular tachycardia. Cochrane Database Syst Rev. 2013 Mar 28;(3):CD009502. doi: 10.1002/14651858.CD009502.pub2. Review. Update in: Cochrane Database Syst Rev. 2015 PMID: [23543578](http://pubmed.gov/23543578).
