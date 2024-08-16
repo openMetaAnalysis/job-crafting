@@ -48,9 +48,10 @@ References:
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1.  Oprea BT, Barzin L, Vîrgă D, Iliescu D, Rusu A. Effectiveness of job crafting interventions: a meta-analysis and utility analysis. European Journal of Work and Organizational Psychology. 2019 Nov 2;28(6):723–741. doi: [10.1080/1359432X.2019.1646728](http://dx.doi.org/10.1080/1359432X.2019.1646728) *we have limited our review to studies within this review that were in a healthcare setting*
-2.  Björk JM, Bolander P, Forsman AK. Bottom-Up Interventions Effective in Promoting Work Engagement: A Systematic Review and Meta-Analysis. Front Psychol. 2021;12:730421. PMID: [34566819](http://pubmed.gov/34566819)
-3.  Devotto RP, Wechsler SM. Job Crafting Interventions: Systematic Review. Temas Psicol. 2019;27(2):371–383. DOI: [10.9788/TP2019.2-06](http://doi.org/10.9788/TP2019.2-06)
+1. Björk JM, Bolander P, Forsman AK. Bottom-Up Interventions Effective in Promoting Work Engagement: A Systematic Review and Meta-Analysis. Front Psychol. 2021;12:730421. PMID: [34566819](http://pubmed.gov/34566819)
+2. Cohen C, Pignata S, Bezak E, Tie M, Childs J. Workplace interventions to improve well-being and reduce burnout for nurses, physicians and allied healthcare professionals: a systematic review. BMJ Open. 2023 Jun 29;13(6):e071203. doi: [10.1136/bmjopen-2022-071203](http://doi.org/10.1136/bmjopen-2022-071203). PMID: [37385740](http://pubmed.gov/37385740).
+3. Oprea BT, Barzin L, Vîrgă D, Iliescu D, Rusu A. Effectiveness of job crafting interventions: a meta-analysis and utility analysis. European Journal of Work and Organizational Psychology. 2019 Nov 2;28(6):723–741. doi: [10.1080/1359432X.2019.1646728](http://dx.doi.org/10.1080/1359432X.2019.1646728) *we have limited our review to studies within this review that were in a healthcare setting*
+4. Devotto RP, Wechsler SM. Job Crafting Interventions: Systematic Review. Temas Psicol. 2019;27(2):371–383. DOI: [10.9788/TP2019.2-06](http://doi.org/10.9788/TP2019.2-06)
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
@@ -64,16 +65,18 @@ References:
 1. van Leeuwen EH, Knies E, van Rensen ELJ, Taris TW. Stimulating Employability and Job Crafting Behaviour of Physicians: A Randomized Controlled Trial. Int J Environ Res Public Health. 2022 May 6;19(9):5666. doi: 10.3390/ijerph19095666. PMID: [35565061](http://pubmed.gov/35565061). *Outcome measures usable?*
 2. El-Gazar HE, Abdelhafez S, Ibrahim N, Shawer M, Zoromba MA. Effect of Job Crafting Intervention Program on Harmonious Work Passion and Career Commitment among Nurses: A Randomized Controlled Trial. Mrayyan MT, editor. Journal of Nursing Management. 2023 Jul 13;2023:1–14. DOI: [10.1155/2023/9623866](http://doi.org/10.1155/2023/9623866)
 
-
 #### Trial(s) excluded - selected list of important trial(s)
-1.  Kooij D, van Woerkom M, Wilkenloh J, Dorenbosch L, Denissen J. A Job Crafting Intervention Study: Increasing Person-Job Fit of Aging Workers. The Gerontologist. 2016 Nov 1;56(Suppl_3):295.  DOI: [10.1093/geront/gnw162.1201](http://doi.org/10.1093/geront/gnw162.1201) * Not in healthcare delivery*
-2. Kooij DTAM, van Woerkom M, Wilkenloh J, Dorenbosch L, Denissen JJA. Job crafting towards strengths and interests: The effects of a job crafting intervention on person-job fit and the role of age. J Appl Psychol. 2017 Jun;102(6):971-981. doi: 10.1037/apl0000194. PMID: [28277726](http://pubmed.gov/28277726). * Not in healthcare delivery*
+1. Kooij D, van Woerkom M, Wilkenloh J, Dorenbosch L, Denissen J. A Job Crafting Intervention Study: Increasing Person-Job Fit of Aging Workers. The Gerontologist. 2016 Nov 1;56(Suppl_3):295.  DOI: [10.1093/geront/gnw162.1201](http://doi.org/10.1093/geront/gnw162.1201) *Not in healthcare delivery*
+2. Kooij DTAM, van Woerkom M, Wilkenloh J, Dorenbosch L, Denissen JJA. Job crafting towards strengths and interests: The effects of a job crafting intervention on person-job fit and the role of age. J Appl Psychol. 2017 Jun;102(6):971-981. doi: 10.1037/apl0000194. PMID: [28277726](http://pubmed.gov/28277726). *Not in healthcare delivery*
 3. Kuijpers E, Kooij DTAM, van Woerkom M. Align your job with yourself: The relationship between a job crafting intervention and work engagement, and the role of workload. J Occup Health Psychol. 2020 Feb;25(1):1–16. PMID: [31829662](http://pubmed.gov/31829662) *Study results presented as correlations rather than effect sizes*
 4. Pérez-Marqués M, Letona-Ibañez O, Amillano A, Carrasco M, Martínez-Rodríguez S. Effects of three personal resources interventions on employees’ burnout. Sci Rep. 2023 Dec 6;13(1):21530. PMCID: [PMC10700343](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10700343/) *No results for healthcare sites*
 5. Sakuraya A, Shimazu A, Imamura K, Kawakami N. Effects of a Job Crafting Intervention Program on Work Engagement Among Japanese Employees: A Randomized Controlled Trial. Front Psychol. 2020;11:235. PMCID: [PMC7047874](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7047874/) *No results for healthcare sites*
-6.  Topa G, Aranda-Carmena M. Job Crafting in Nursing: Mediation between Work Engagement and Job Performance in a Multisample Study. Int J Environ Res Public Health. 2022 Oct 5;19(19):12711. PMCID: [PMC9566469](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9566469/) *Study results presented as correlations rather than effect sizes*
-7.  Dyrbye LN, West CP, Richards ML, Ross HJ, Satele D, Shanafelt TD. A randomized, controlled study of an online intervention to promote job satisfaction and well-being among physicians. Burnout Research. 2016 Sep 1;3(3):69-75. *The intervention was not job crafting but focused more on exercises to build resiliency*
-8.  Dubbelt L, Demerouti E, Rispens S. The value of job crafting for work engagement, task performance, and career satisfaction: longitudinal and quasi-experimental evidence. European Journal of Work and Organizational Psychology. 2019 May 4;28(3):300-14.*No results for healthcare sites*
+6. Topa G, Aranda-Carmena M. Job Crafting in Nursing: Mediation between Work Engagement and Job Performance in a Multisample Study. Int J Environ Res Public Health. 2022 Oct 5;19(19):12711. PMCID: [PMC9566469](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9566469/) *Study results presented as correlations rather than effect sizes*
+7. Dyrbye LN, West CP, Richards ML, Ross HJ, Satele D, Shanafelt TD. A randomized, controlled study of an online intervention to promote job satisfaction and well-being among physicians. Burnout Research. 2016 Sep 1;3(3):69-75. *The intervention was not job crafting but focused more on exercises to build resiliency*
+8. Dubbelt L, Demerouti E, Rispens S. The value of job crafting for work engagement, task performance, and career satisfaction: longitudinal and quasi-experimental evidence. European Journal of Work and Organizational Psychology. 2019 May 4;28(3):300-14.*No results for healthcare sites*
+
+#### Systematic review(s) excluded - selected list of important review(s)
+1. Holman D, Escaffi‐Schwarz M, Vasquez CA, Irmer JP, Zapf D. Does job crafting affect employee outcomes via job characteristics? A meta‐analytic test of a key job crafting mechanism. Journal of Occupational and Organizational Psychology. 2024 Mar;97(1):47-73. *No results for healthcare sites*
 
 #### Cited by
 This repository is cited by:
