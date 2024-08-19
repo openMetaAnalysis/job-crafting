@@ -76,9 +76,13 @@ References:
 7. Dyrbye LN, West CP, Richards ML, Ross HJ, Satele D, Shanafelt TD. A randomized, controlled study of an online intervention to promote job satisfaction and well-being among physicians. Burnout Research. 2016 Sep 1;3(3):69-75. *The intervention was not job crafting but focused more on exercises to build resiliency*
 8. Dubbelt L, Demerouti E, Rispens S. The value of job crafting for work engagement, task performance, and career satisfaction: longitudinal and quasi-experimental evidence. European Journal of Work and Organizational Psychology. 2019 May 4;28(3):300-14.*No results for healthcare sites*
 9. Van den Heuvel M, Demerouti E, Peeters MC. The job crafting intervention: Effects on job resources, self‐efficacy, and affective well‐being. Journal of occupational and organizational psychology. 2015 Sep;88(3):511-32. DOI: [10.1111/joop.12128(http://doi.org/10.1111/joop.12128).*No results for healthcare sites*
+10. Wang H, Li P, Chen S. The Impact of Social Factors on Job Crafting: A Meta-Analysis and Review. Int J Environ Res Public Health. 2020 Oct 30;17(21):8016. doi: 10.3390/ijerph17218016. PMID: 33143286; PMCID: [PMC7662365](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7662365/). *No results for outcomes of job crdafting.*
 
 #### Systematic review(s) excluded - selected list of important review(s)
 1. Holman D, Escaffi‐Schwarz M, Vasquez CA, Irmer JP, Zapf D. Does job crafting affect employee outcomes via job characteristics? A meta‐analytic test of a key job crafting mechanism. Journal of Occupational and Organizational Psychology. 2024 Mar;97(1):47-73. *No results for healthcare sites*
+
+#### Systematic review(s) undergoing review.
+1. Lai AY, Wee KZ, Frimpong JA. Proactive behaviors and health care workers: A systematic review. Health Care Manage Rev. 2024 Jul-Sep 01;49(3):239-251. doi: 10.1097/HMR.0000000000000409. Epub 2024 May 17. PMID: [38757911](http://pubmed.gov/38757911).
 
 #### Cited by
 This repository is cited by:
