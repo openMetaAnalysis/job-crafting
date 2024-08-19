@@ -52,7 +52,8 @@ References:
 2. Cohen C, Pignata S, Bezak E, Tie M, Childs J. Workplace interventions to improve well-being and reduce burnout for nurses, physicians and allied healthcare professionals: a systematic review. BMJ Open. 2023 Jun 29;13(6):e071203. doi: [10.1136/bmjopen-2022-071203](http://doi.org/10.1136/bmjopen-2022-071203). PMID: [37385740](http://pubmed.gov/37385740).
 3. Oprea BT, Barzin L, Vîrgă D, Iliescu D, Rusu A. Effectiveness of job crafting interventions: a meta-analysis and utility analysis. European Journal of Work and Organizational Psychology. 2019 Nov 2;28(6):723–741. doi: [10.1080/1359432X.2019.1646728](http://dx.doi.org/10.1080/1359432X.2019.1646728) *we have limited our review to studies within this review that were in a healthcare setting*
 4. Devotto RP, Wechsler SM. Job Crafting Interventions: Systematic Review. Temas Psicol. 2019;27(2):371–383. DOI: [10.9788/TP2019.2-06](http://doi.org/10.9788/TP2019.2-06)
-
+5. Rudolph CW, Katz IM, Lavigne KN, Zacher H. Job crafting: A meta-analysis of relationships with individual differences, job characteristics, and work outcomes. Journal of vocational behavior. 2017 Oct 1;102:112-38. DOI: [10.1016/j.jvb.2017.05.008](http://doi.org/10.1016/j.jvb.2017.05.008)  *The authors did not have any studies from healthcare*
+   
 ### Randomized controlled trials or quasi-experimental studies
 #### New studies *not* included in the most recent review above
 1.  Gordon HJ, Demerouti E, Le Blanc PM, Bakker AB, Bipp T, Verhagen MAMT. Individual job redesign: Job crafting interventions in healthcare. Journal of Vocational Behavior. 2018 Feb;104:98–114.  doi: [10.1016/j.jvb.2017.07.002](http://dx.doi.org/10.1016/j.jvb.2017.07.002) *We extracted emotional exhaustion results from the original trial as this outcome was not reported by Oprea*
