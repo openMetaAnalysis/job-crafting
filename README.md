@@ -65,6 +65,7 @@ References:
 #### Trial(s) undergoing review
 1. van Leeuwen EH, Knies E, van Rensen ELJ, Taris TW. Stimulating Employability and Job Crafting Behaviour of Physicians: A Randomized Controlled Trial. Int J Environ Res Public Health. 2022 May 6;19(9):5666. doi: 10.3390/ijerph19095666. PMID: [35565061](http://pubmed.gov/35565061). *Outcome measures usable?*
 2. El-Gazar HE, Abdelhafez S, Ibrahim N, Shawer M, Zoromba MA. Effect of Job Crafting Intervention Program on Harmonious Work Passion and Career Commitment among Nurses: A Randomized Controlled Trial. Mrayyan MT, editor. Journal of Nursing Management. 2023 Jul 13;2023:1–14. DOI: [10.1155/2023/9623866](http://doi.org/10.1155/2023/9623866)
+3. Zhang HL, Liu JH, Ma WJ, Xu XL, Guo XL, Lang HJ. The relationship between job crafting and work engagement among nurses in China: A latent profile analysis. Nurs Open. 2024 Oct;11(10):e70007. doi: 10.1002/nop2.70007. PMID: [39437201](http://pubmed.gov/39437201); PMCID: PMC11495650.
 
 #### Trial(s) excluded - selected list of important trial(s)
 1. Kooij D, van Woerkom M, Wilkenloh J, Dorenbosch L, Denissen J. A Job Crafting Intervention Study: Increasing Person-Job Fit of Aging Workers. The Gerontologist. 2016 Nov 1;56(Suppl_3):295.  DOI: [10.1093/geront/gnw162.1201](http://doi.org/10.1093/geront/gnw162.1201) *Not in healthcare delivery*
