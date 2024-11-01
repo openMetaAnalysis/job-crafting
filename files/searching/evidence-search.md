@@ -36,11 +36,14 @@ No applicable
 (under construction)
 ### Google Scholar
 #### Seed studies
-Gordon HJ, Demerouti E, Le Blanc PM, et al. Individual job redesign: job crafting interventions in Healthcare. Journal of Vocational Behavior 2018;104:98–114. DOI [10.1016/j.jvb.2017.07.002](https://doi.org/10.1016/j.jvb.2017.07.002)
+Gordon HJ, Demerouti E, Le Blanc PM, et al. Individual job redesign: job crafting interventions in Healthcare. Journal of Vocational Behavior 2018;104:98–114. DOI [10.1016/j.jvb.2017.07.002](https://doi.org/10.1016/j.jvb.2017.07.002) 
+* Citerd refernce searching with "job crafting" and search dates 10/2022 2030
+ *  x studies found
+  * Y included
 
 ### PubMed
 #### Seed studies
-None available
+1. Cohen C, Pignata S, Bezak E, Tie M, Childs J. Workplace interventions to improve well-being and reduce burnout for nurses, physicians and allied healthcare professionals: a systematic review. BMJ Open. 2023 Jun 29;13(6):e071203. doi: 10.1136/bmjopen-2022-071203. PMID: [37385740](http://pubmed.gov/37385740); PMCID: PMC10314589. (search date was through 10/2022)
 
 ### Identifying seminal studies that are the most highly cited
 Smith GD, Dyson K, Taylor D, Morgans A, Cantwell K. Effectiveness of the Valsalva Manoeuvre for reversion of supraventricular tachycardia. Cochrane Database Syst Rev. 2013 Mar 28;(3):CD009502. doi: 10.1002/14651858.CD009502.pub2. Review. Update in: Cochrane Database Syst Rev. 2015 PMID: [23543578](http://pubmed.gov/23543578).
