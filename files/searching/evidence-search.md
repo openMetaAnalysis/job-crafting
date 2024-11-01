@@ -1,7 +1,10 @@
 # Evidence search
 (under construction)
 ## Inclusion criteria
-Randomized trials or quasi-experimental studies of workforce well-being or performance that compare job crafting to no intervention..
+Randomized trials or quasi-experimental studies of workforce well-being or performance that compare job crafting to no intervention measuring at least one of the following outcomes:
+* Emotional exhaustion (dominant component of burnout): numerically or conceptually mapped to Maslach Burnout Inventory (MBI), 1981 
+* Engagement: numerically or conceptually mapped to Schaufeli's UWES-3 scale, 2017
+* Task performance: numerically mapped or conceptually to *** 
 
 ## Reconciliation tables
 (under construction)
