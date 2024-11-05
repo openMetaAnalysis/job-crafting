@@ -1,9 +1,15 @@
 # Evidence search
 (under construction)
 ## Inclusion criteria
-Randomized trials or quasi-experimental studies of workforce well-being or performance that compare job crafting to no intervention measuring at least one of the following outcomes:
+Randomized trials or quasi-experimental studies or controlled before-after studies of workforce well-being or performance that compare job crafting to no intervention. 
+
+Job crafting was measured by scales including: 
+* *Slemp and Vella-Brodrick’s (2013) JCQ - a 15-item 6-point Likert scale. Slemp, Int J Wellbeing 2023 doi:[10.5502/ijw.v3i2.1](http://doi.org/10.5502/ijw.v3i2.1)**
+
+At least one of the the following outcomes was measured:
 * Emotional exhaustion (dominant component of burnout): numerically or conceptually mapped to Maslach Burnout Inventory (MBI), 1981 
-* Engagement: numerically or conceptually mapped to Schaufeli's UWES-3 scale, 2017
+* Engagement: numerically or conceptually mapped to *at least one item* (Vigor/physical, dedication/effective, absorption/cognitive) of Schaufeli's UWES-3 scale (Schaufeli, 2017. DOI [10.1027/1015-5759/a000430](http://doi.org/10.1027/1015-5759/a000430)
+  * *Psychological empowerment (PE) has 4 subscales with 3 items each: meaning; competence; self-determination; impact. Spreitzer, Acad Management J 1995 DOI: [10.2307/256865](http://doi.org/10.2307/256865)*
 * Task performance: numerically mapped or conceptually to *** 
 
 ## Reconciliation tables
