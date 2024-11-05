@@ -67,6 +67,13 @@ References:
 2. El-Gazar HE, Abdelhafez S, Ibrahim N, Shawer M, Zoromba MA. Effect of Job Crafting Intervention Program on Harmonious Work Passion and Career Commitment among Nurses: A Randomized Controlled Trial. Mrayyan MT, editor. Journal of Nursing Management. 2023 Jul 13;2023:1–14. DOI: [10.1155/2023/9623866](http://doi.org/10.1155/2023/9623866)
 3. Zhang HL, Liu JH, Ma WJ, Xu XL, Guo XL, Lang HJ. The relationship between job crafting and work engagement among nurses in China: A latent profile analysis. Nurs Open. 2024 Oct;11(10):e70007. doi: 10.1002/nop2.70007. PMID: [39437201](http://pubmed.gov/39437201); PMCID: PMC11495650.
 
+From Harbridge:
+1. Baghdadi et al., 2020. DOI [10.1111/jonm.13141](http://doi.org/10.1111/jonm.13141)
+2. Llorente-Alonso, et al., 2021; DOI [10.3390/jcm10081614]([url](https:// doi.org/10.3390/jcm10081614))
+3. Miller, 2015; https://scholarworks.waldenu.edu/dissertations/1363
+4. Oldham & Hackman, 2010; DOI [10.1002/job.678](http://doi.org/10.1002/job.678)
+5. Wrzesniewski & Dutton, 2001 DOI [10.5465/amr.2001.4378011](http://doi.org/10.5465/amr.2001.4378011)
+
 #### Trial(s) excluded - selected list of important trial(s)
 1. Kooij D, van Woerkom M, Wilkenloh J, Dorenbosch L, Denissen J. A Job Crafting Intervention Study: Increasing Person-Job Fit of Aging Workers. The Gerontologist. 2016 Nov 1;56(Suppl_3):295.  DOI: [10.1093/geront/gnw162.1201](http://doi.org/10.1093/geront/gnw162.1201) *Not in healthcare delivery*
 2. Kooij DTAM, van Woerkom M, Wilkenloh J, Dorenbosch L, Denissen JJA. Job crafting towards strengths and interests: The effects of a job crafting intervention on person-job fit and the role of age. J Appl Psychol. 2017 Jun;102(6):971-981. doi: 10.1037/apl0000194. PMID: [28277726](http://pubmed.gov/28277726). *Not in healthcare delivery*
