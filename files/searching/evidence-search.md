@@ -10,7 +10,9 @@ At least one of the the following outcomes was measured:
 * Emotional exhaustion (dominant component of burnout): numerically or conceptually mapped to Maslach Burnout Inventory (MBI), 1981 
 * Engagement: numerically or conceptually mapped to *at least one item* (Vigor/physical, dedication/effective, absorption/cognitive) of Schaufeli's UWES-3 scale (Schaufeli, 2017. DOI [10.1027/1015-5759/a000430](http://doi.org/10.1027/1015-5759/a000430)
   * *Psychological empowerment (PE) has 4 subscales with 3 items each: meaning; competence; self-determination; impact. Spreitzer, Acad Management J 1995 DOI: [10.2307/256865](http://doi.org/10.2307/256865)*
-* Task performance: numerically mapped or conceptually to *** 
+* Task performance: numerically mapped or conceptually to:
+  * *At the individual level:*
+  * *At the team level: Schaubroeck et al. (Schaubroeck, 2007) DOI [10.1037/0021-9010.92.4.1020](https://doi.org/10.1037/0021-9010.92.4.1020)*
 
 ## Reconciliation tables
 (under construction)
