@@ -67,6 +67,7 @@ References:
 1. van Leeuwen EH, Knies E, van Rensen ELJ, Taris TW. Stimulating Employability and Job Crafting Behaviour of Physicians: A Randomized Controlled Trial. Int J Environ Res Public Health. 2022 May 6;19(9):5666. doi: 10.3390/ijerph19095666. PMID: [35565061](http://pubmed.gov/35565061). *Outcome measures usable?*
 2. El-Gazar HE, Abdelhafez S, Ibrahim N, Shawer M, Zoromba MA. Effect of Job Crafting Intervention Program on Harmonious Work Passion and Career Commitment among Nurses: A Randomized Controlled Trial. Mrayyan MT, editor. Journal of Nursing Management. 2023 Jul 13;2023:1–14. DOI: [10.1155/2023/9623866](http://doi.org/10.1155/2023/9623866)
 3. Zhang HL, Liu JH, Ma WJ, Xu XL, Guo XL, Lang HJ. The relationship between job crafting and work engagement among nurses in China: A latent profile analysis. Nurs Open. 2024 Oct;11(10):e70007. doi: 10.1002/nop2.70007. PMID: [39437201](http://pubmed.gov/39437201); PMCID: PMC11495650.
+4. de Jong JP, De Clippeleer I, De Vos A. Enhancing team crafting through proactive motivation: An intervention study. J Appl Psychol. 2024 Sep 26. doi: 10.1037/apl0001220. Epub ahead of print. PMID: [39325376](http://pubmed.gov/39325376). *Does their self-report of team performance qualify as an outcome measure?*
 
 From Harbridge:
 1. Baghdadi et al., 2020. DOI [10.1111/jonm.13141](http://doi.org/10.1111/jonm.13141)
