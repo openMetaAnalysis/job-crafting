@@ -89,19 +89,19 @@ Gordon1 <- esc_mean_gain(
 
 Gordon2 <- esc_mean_gain( 
   # CONTROL
-  pre1mean = 4.00, 
-  pre1sd = 0.62, 
-  post1mean = 4.07, 
-  post1sd = 0.67, 
+  pre1mean = 4.15, 
+  pre1sd = 0.45, 
+  post1mean = 4.13, 
+  post1sd = 0.44, 
   grp1n = 26, 
   # gain1mean, 
   # gain1sd, 
   # grp1r, 
   # EXPERIMENTAL
   pre2mean = 4.10, 
-  pre2sd = 0.74, 
-  post2mean = 4.68, # 120 minutes 
-  post2sd = 0.74, 
+  pre2sd = 0.40, 
+  post2mean = 4.27, # 120 minutes 
+  post2sd = 0.32, 
   grp2n = 32, 
   # gain2mean, 
   # gain2sd, 
