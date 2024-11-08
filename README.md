@@ -23,7 +23,7 @@ This review updates previously published meta-analysis(es).(citation[s] below)
 
 Acknowledgement: we acknowledge the essential work by the authors of the prior [systematic review(s)](#systematic-reviews) listed below.
 
-**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that combines methods of scoping, rapid, and living systematic reviews.  This analysis updates one or more previously published review(s) below. A comparison of studies included in this review compared to prior reviews are in the table, [reconciliation of trials included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf). Newer studies included are listed in the references below. Rationale for newer trials excluded may be listed at the end of the references. 
+**Methods overview:** This repository is an [openMetaAnalysis](https://openmetaanalysis.github.io/) that combines methods of scoping, rapid, and living systematic reviews.  This analysis updates one or more previously published review(s) below. A comparison of studies included in this review compared to prior reviews are in the table, [reconciliation of trials included with prior meta-analyses/](files/reconciliation-tables/Reconciliation%20of%20studies.pdf). Newer studies included are listed in the references below. Rationale for newer studies excluded may be listed at the end of the references. 
 * [Methods](http://openmetaanalysis.github.io/methods.html) for openMetaAnalysis
 * [Evidence search](files/searching/evidence-search.md) for this review (under construction)
 
@@ -76,7 +76,7 @@ From Harbridge:
 4. Oldham & Hackman, 2010; DOI [10.1002/job.678](http://doi.org/10.1002/job.678)
 5. Wrzesniewski & Dutton, 2001 DOI [10.5465/amr.2001.4378011](http://doi.org/10.5465/amr.2001.4378011)
 
-#### Trial(s) excluded - selected list of important trial(s)
+#### Studies excluded - selected list of important trial(s)
 1. Kooij D, van Woerkom M, Wilkenloh J, Dorenbosch L, Denissen J. A Job Crafting Intervention Study: Increasing Person-Job Fit of Aging Workers. The Gerontologist. 2016 Nov 1;56(Suppl_3):295.  DOI: [10.1093/geront/gnw162.1201](http://doi.org/10.1093/geront/gnw162.1201) *Not in healthcare delivery*
 2. Kooij DTAM, van Woerkom M, Wilkenloh J, Dorenbosch L, Denissen JJA. Job crafting towards strengths and interests: The effects of a job crafting intervention on person-job fit and the role of age. J Appl Psychol. 2017 Jun;102(6):971-981. doi: 10.1037/apl0000194. PMID: [28277726](http://pubmed.gov/28277726). *Not in healthcare delivery*
 3. Kuijpers E, Kooij DTAM, van Woerkom M. Align your job with yourself: The relationship between a job crafting intervention and work engagement, and the role of workload. J Occup Health Psychol. 2020 Feb;25(1):1–16. PMID: [31829662](http://pubmed.gov/31829662) *Study results presented as correlations rather than effect sizes*
@@ -89,7 +89,8 @@ From Harbridge:
 10. Wang H, Li P, Chen S. The Impact of Social Factors on Job Crafting: A Meta-Analysis and Review. Int J Environ Res Public Health. 2020 Oct 30;17(21):8016. doi: 10.3390/ijerph17218016. PMID: 33143286; PMCID: [PMC7662365](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7662365/). *No results for outcomes of job crdafting.*
 11. Harbridge R, Ivanitskaya L, Spreitzer G, Boscart V. Psychological empowerment and job crafting among registered nurses working in public health: A quantitative study. Appl Nurs Res. 2023 Feb;69:151649. doi: 10.1016/j.apnr.2022.151649. Epub 2022 Dec 14. PMID: [36635019](http://pubmed.gov/36635019). *Exclude as cross-sectional*
 12. Zhang HL, Liu JH, Ma WJ, Xu XL, Guo XL, Lang HJ. The relationship between job crafting and work engagement among nurses in China: A latent profile analysis. Nurs Open. 2024 Oct;11(10):e70007. doi: 10.1002/nop2.70007. PMID: [39437201](http://pubmed.gov/39437201). *Exclude as cross-sectional*
-13. Ghazzawi R, Chasiotis A, Bender M, Daouk-Öyry L, Baumann N. Up for the challenge: Power motive congruence drives nurses to craft their jobs and experience well-being. PLoS One. 2024 Oct 3;19(10):e0310717. doi: 10.1371/journal.pone.0310717. PMID: [39361592](http://pubmed.gov/39361592) *Exclude as cross-sectional*
+13. Ghazzawi R, Chasiotis A, Bender M, Daouk-Öyry L, Baumann N. Up for the challenge: Power motive congruence drives nurses to craft their jobs and experience well-being. PLoS One. 2024 Oct 3;19(10):e0310717. doi: 10.1371/journal.pone.0310717. PMID: [39361592](http://pubmed.gov/39361592) *Exclude as cross-sectional without a control group*
+14. Bakker AB. Job crafting among health care professionals: The role of work engagement. J Nurs Manag. 2018 Apr;26(3):321-331. doi: 10.1111/jonm.12551. Epub 2017 Oct 9. PMID: [28990295](http://pubmed.gov/28990295).  *Exclude as cross-sectional without a control group*
 
 #### Systematic review(s) excluded - selected list of important review(s)
 1. Holman D, Escaffi‐Schwarz M, Vasquez CA, Irmer JP, Zapf D. Does job crafting affect employee outcomes via job characteristics? A meta‐analytic test of a key job crafting mechanism. Journal of Occupational and Organizational Psychology. 2024 Mar;97(1):47-73. *No results for healthcare sites*
