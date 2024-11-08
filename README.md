@@ -5,10 +5,27 @@ A living systematic review
 Short url: https://ebmgt.github.io/job-crafting/
 
 **Definitions** 
-* "Job crafting" is "self-initiated behaviours that employees take to shape, mold, and change their jobs" ([van Leeuwen, 2022](https://doi.org/10.3390/ijerph19095666))​ Another definition is, "workers actively change the actual or perceived characteristics of their jobs in order to better match the demands placed on them and the resources available" (Topa and Aranda-Carmena, 2022 PMID [36232011](http://pubmed.gov/36232011)).
+* "Job crafting" is "self-initiated behaviours that employees take to shape, mold, and change their jobs" ([van Leeuwen, 2022](https://doi.org/10.3390/ijerph19095666))​ Another definition is, "workers actively change the actual or perceived characteristics of their jobs in order to better match the demands placed on them and the resources available" (Topa and Aranda-Carmena, 2022 PMID [36232011](http://pubmed.gov/36232011)). 
 * "Collaborative job crafting" is "[workers] can jointly determine how to modify the work to meet their shared goals" (Topa and Aranda-Carmena, 2022 PMID [36232011](http://pubmed.gov/36232011))​
 * "Team job crafting" is the “extent to which team members combine efforts to increase structural and social job resources as well as challenging job demands, and to decrease their hindering job demands” (Dejong et al. J J Appl Psychol. 2024 PMID [39325376](http://pubmed.gov/39325376)
 * Job crafting can be combined with "knowledge sharing", such as Googler2Googler (G2) in which the organization helps disseminate successful job crafting.
+
+**Measurement of the occurence of job crafting**
+
+Kuijpers (2019 PMID [31829662](http://pubmed.gov/31829662)) states the following targets or goals of the individual exist and can be measured by the survey of Kooij (2017, PMID [28277726](http://pubmed.gov/28277726)). Crafting towards:
+  * Strengths of the individual
+  * Interests of the individual
+  * Development of the individual
+
+ Petrou (Petrou et al., 2012 DOI: [10.1002/job.1783](http://doi.org/10.1002/job.1783)), alternatively proposed the Job Crafting Scale which measuresthe following targets or goals of the individual
+ * Challenges
+ * Resources
+ * Demands (reduction)
+
+Tims (Tims, 2012 DOI [10.1016/j.jvb.2011.05.009](http://doi.org/10.1016/j.jvb.2011.05.009)) measures:
+* Resources (social)
+* Resources (skills)
+* Challenges
 
 **Clinical summary:** This meta-analysis suggests that the effectiveness of the clinical intervention *is* [moderate](https://training.cochrane.org/handbook/current/chapter-15#section-15-5-3-1). [Standarized mean differences](https://training.cochrane.org/handbook/current/chapter-15#section-15-3) betweeen intervention and control groups across outcomes range from 0.49 to 0.78. 
 
@@ -107,4 +124,3 @@ This repository is cited by:
 -------------------------------
 [Cite and use this content](https://github.com/openMetaAnalysis/openMetaAnalysis.github.io/blob/master/reusing.MD)  - [Edit this page](../../edit/master/README.md) - [License](files/LICENSE.md) - [History](../../commits/master/README.md)  - 
 [Issues and comments](../../issues?q=is%3Aboth+is%3Aissue)
-
