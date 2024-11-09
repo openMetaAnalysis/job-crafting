@@ -19,8 +19,8 @@ Kuijpers (2019 PMID [31829662](http://pubmed.gov/31829662)) states the following
   * Efficiency of the work process via adoption crafting (not part of Kuijpers's model) is the "active and goal-directed use of technology and other sources of knowledge to optimize the work process and is more aimed at doing the job more efficiently than at realizing one’s potential." (Kooij, 2017 PMID [28277726](http://pubmed.gov/28277726))
 
  Petrou (Petrou et al., 2012 DOI: [10.1002/job.1783](http://doi.org/10.1002/job.1783)), alternatively proposed the Job Crafting Scale which measuresthe following targets or goals of the individual
- * Challenges
- * Resources
+ * Challenges (increasing)
+ * Resources (increasing)
  * Demands (reduction)
 
 Tims (Tims, 2012 DOI [10.1016/j.jvb.2011.05.009](http://doi.org/10.1016/j.jvb.2011.05.009)) Dutch job crafting scale (JCS) based on the job demands-resources model (Demerouti, 2001 PMID [11419809](http://pubmed.gov/11419809)) measures:
