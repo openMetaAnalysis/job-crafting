@@ -30,7 +30,7 @@ Tims (Tims, 2012 DOI [10.1016/j.jvb.2011.05.009](http://doi.org/10.1016/j.jvb.20
 * Resources, social
 * Resources, structural
 
-**Clinical summary:** This meta-analysis suggests that the effectiveness of the clinical intervention *is* [moderate](https://training.cochrane.org/handbook/current/chapter-15#section-15-5-3-1). [Standarized mean differences](https://training.cochrane.org/handbook/current/chapter-15#section-15-3) betweeen intervention and control groups across outcomes range from 0.49 to 0.78. 
+**Clinical summary:** PENDING. CURRENT CONTENT IS AN UNMODIFIED  TEMPLATE. This meta-analysis suggests that the effectiveness of the clinical intervention *is* [moderate](https://training.cochrane.org/handbook/current/chapter-15#section-15-5-3-1). [Standarized mean differences](https://training.cochrane.org/handbook/current/chapter-15#section-15-3) betweeen intervention and control groups across outcomes range from 0.49 to 0.78. 
 
 Heterogeneity of results as measured by I<sup>2</sup> '[might not be important](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at 0% for all analyses; however very wide confidence intervals reflect the small number of studies and subjects. 
 
@@ -111,6 +111,7 @@ From Harbridge:
 12. Zhang HL, Liu JH, Ma WJ, Xu XL, Guo XL, Lang HJ. The relationship between job crafting and work engagement among nurses in China: A latent profile analysis. Nurs Open. 2024 Oct;11(10):e70007. doi: 10.1002/nop2.70007. PMID: [39437201](http://pubmed.gov/39437201). *Exclude as cross-sectional*
 13. Ghazzawi R, Chasiotis A, Bender M, Daouk-Öyry L, Baumann N. Up for the challenge: Power motive congruence drives nurses to craft their jobs and experience well-being. PLoS One. 2024 Oct 3;19(10):e0310717. doi: 10.1371/journal.pone.0310717. PMID: [39361592](http://pubmed.gov/39361592) *Exclude as cross-sectional without a control group*
 14. Bakker AB. Job crafting among health care professionals: The role of work engagement. J Nurs Manag. 2018 Apr;26(3):321-331. doi: 10.1111/jonm.12551. Epub 2017 Oct 9. PMID: [28990295](http://pubmed.gov/28990295).  *Exclude as cross-sectional without a control group*
+15. Frögéli E, Rudman A, Ljótsson B, Gustavsson P. Preventing Stress-Related Ill Health Among New Registered Nurses by Supporting Engagement in Proactive Behaviors-A Randomized Controlled Trial. Worldviews Evid Based Nurs. 2020 Jun;17(3):202-212. doi: 10.1111/wvn.12442. Epub 2020 Jun 27. PMID: [32592439](http://pubmed.gov/32592439). *Exclude as not job crafting and not outcomes needed*
 
 #### Systematic review(s) excluded - selected list of important review(s)
 1. Holman D, Escaffi‐Schwarz M, Vasquez CA, Irmer JP, Zapf D. Does job crafting affect employee outcomes via job characteristics? A meta‐analytic test of a key job crafting mechanism. Journal of Occupational and Organizational Psychology. 2024 Mar;97(1):47-73. *No results for healthcare sites*
