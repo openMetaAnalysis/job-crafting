@@ -30,7 +30,9 @@ Tims (Tims, 2012 DOI [10.1016/j.jvb.2011.05.009](http://doi.org/10.1016/j.jvb.20
 * Resources, social
 * Resources, structural
 
-**Clinical summary:** Our original objective of this meta-analysis was to measure the impact of job crafting on burnout. Two studies of emotional exhaustion with less than 200 total subjects suggests a '[moderate](https://training.cochrane.org/handbook/current/chapter-15#section-15-5-3-1)' reduction with a standized mean difference (SMD) of -0.49 (interpreting SMDs); however, this insignificant in the small population studied. Additional results are below. 
+------------
+**Clinical summary:** 
+Our original objective of this meta-analysis was to measure the impact of job crafting on burnout. Two studies of emotional exhaustion with less than 200 total subjects suggests a '[moderate](https://training.cochrane.org/handbook/current/chapter-15#section-15-5-3-1)' reduction with a standized mean difference (SMD) of -0.49 (interpreting SMDs); however, this insignificant in the small population studied. Additional results are below. 
 
 Heterogeneity of results as measured by I<sup>2</sup> '[might not be important](https://training.cochrane.org/handbook/current/chapter-10#section-10-10-2)' at 0% for all outcomes; however very wide confidence intervals reflect the small number of studies and subjects. 
 
