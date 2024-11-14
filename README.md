@@ -58,6 +58,7 @@ The forest plot for the primary outcomes are below. Additional [forest plots](fi
 ![Principle results](files/forest-plots/Outcome-Primary.png)
 ![Principle results](files/forest-plots/Outcome-Secondary-E.png)
 ![Principle results](files/forest-plots/Outcome-Secondary-TP.png)
+![Principle results](files/forest-plots/Outcome-Secondary-I.png)
 
 <!--
 The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available.  (under construction)
