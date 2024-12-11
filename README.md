@@ -82,7 +82,7 @@ References:
    
 ### Randomized controlled trials or quasi-experimental studies
 #### New studies *not* included in the most recent review above
-1. de Jong JP, De Clippeleer I, De Vos A. Enhancing team crafting through proactive motivation: An intervention study. J Appl Psychol. 2024 Sep 26. doi: 10.1037/apl0001220. Epub ahead of print. PMID: [39325376](http://pubmed.gov/39325376).
+NA
 
 #### Studies included in the review(s) above
 1.  El-Gazar HE, Abdelhafez S, Ibrahim N, Shawer M, Zoromba MA. Effect of Job Crafting Intervention Program on Harmonious Work Passion and Career Commitment among Nurses: A Randomized Controlled Trial. Mrayyan MT, editor. Journal of Nursing Management. 2023 Jul 13;2023:1–14. DOI: [10.1155/2023/9623866](http://doi.org/10.1155/2023/9623866)
@@ -115,6 +115,8 @@ From Harbridge:
 13. Ghazzawi R, Chasiotis A, Bender M, Daouk-Öyry L, Baumann N. Up for the challenge: Power motive congruence drives nurses to craft their jobs and experience well-being. PLoS One. 2024 Oct 3;19(10):e0310717. doi: 10.1371/journal.pone.0310717. PMID: [39361592](http://pubmed.gov/39361592) *Exclude as cross-sectional without a control group*
 14. Bakker AB. Job crafting among health care professionals: The role of work engagement. J Nurs Manag. 2018 Apr;26(3):321-331. doi: 10.1111/jonm.12551. Epub 2017 Oct 9. PMID: [28990295](http://pubmed.gov/28990295).  *Exclude as cross-sectional without a control group*
 15. Frögéli E, Rudman A, Ljótsson B, Gustavsson P. Preventing Stress-Related Ill Health Among New Registered Nurses by Supporting Engagement in Proactive Behaviors-A Randomized Controlled Trial. Worldviews Evid Based Nurs. 2020 Jun;17(3):202-212. doi: 10.1111/wvn.12442. Epub 2020 Jun 27. PMID: [32592439](http://pubmed.gov/32592439). *Exclude as not job crafting and not outcomes needed*
+16. de Jong JP, De Clippeleer I, De Vos A. Enhancing team crafting through proactive motivation: An intervention study. J Appl Psychol. 2024 Sep 26. doi: 10.1037/apl0001220. Epub ahead of print. PMID: [39325376](http://pubmed.gov/39325376).*No results for healthcare sites*
+
 
 #### Systematic review(s) excluded - selected list of important review(s)
 1. Holman D, Escaffi‐Schwarz M, Vasquez CA, Irmer JP, Zapf D. Does job crafting affect employee outcomes via job characteristics? A meta‐analytic test of a key job crafting mechanism. Journal of Occupational and Organizational Psychology. 2024 Mar;97(1):47-73. *No results for healthcare sites*
