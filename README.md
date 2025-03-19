@@ -100,7 +100,7 @@ From Harbridge:
 4. Oldham & Hackman, 2010; DOI [10.1002/job.678](http://doi.org/10.1002/job.678)
 5. Wrzesniewski & Dutton, 2001 DOI [10.5465/amr.2001.4378011](http://doi.org/10.5465/amr.2001.4378011)
 
-#### Studies excluded - selected list of important trial(s)
+#### Studies excluded - selected list of important studies
 1. Kooij D, van Woerkom M, Wilkenloh J, Dorenbosch L, Denissen J. A Job Crafting Intervention Study: Increasing Person-Job Fit of Aging Workers. The Gerontologist. 2016 Nov 1;56(Suppl_3):295.  DOI: [10.1093/geront/gnw162.1201](http://doi.org/10.1093/geront/gnw162.1201) *Not in healthcare delivery*
 2. Petrou P, Demerouti E, Peeters MC, Schaufeli WB, Hetland J. Crafting a job on a daily basis: Contextual correlates and the link to work engagement. Journal of Organizational Behavior. 2012 Nov;33(8):1120-41. DOI [10.1002/job.1783](http://doi.org/10.1002/job.1783) *Not an interventional study*
 3. Kooij DTAM, van Woerkom M, Wilkenloh J, Dorenbosch L, Denissen JJA. Job crafting towards strengths and interests: The effects of a job crafting intervention on person-job fit and the role of age. J Appl Psychol. 2017 Jun;102(6):971-981. doi: 10.1037/apl0000194. PMID: [28277726](http://pubmed.gov/28277726). *Not in healthcare delivery*
@@ -117,7 +117,8 @@ From Harbridge:
 14. Bakker AB. Job crafting among health care professionals: The role of work engagement. J Nurs Manag. 2018 Apr;26(3):321-331. doi: 10.1111/jonm.12551. Epub 2017 Oct 9. PMID: [28990295](http://pubmed.gov/28990295).  *Exclude as cross-sectional without a control group*
 15. Frögéli E, Rudman A, Ljótsson B, Gustavsson P. Preventing Stress-Related Ill Health Among New Registered Nurses by Supporting Engagement in Proactive Behaviors-A Randomized Controlled Trial. Worldviews Evid Based Nurs. 2020 Jun;17(3):202-212. doi: 10.1111/wvn.12442. Epub 2020 Jun 27. PMID: [32592439](http://pubmed.gov/32592439). *Exclude as not job crafting and not outcomes needed*
 16. de Jong JP, De Clippeleer I, De Vos A. Enhancing team crafting through proactive motivation: An intervention study. J Appl Psychol. 2024 Sep 26. doi: 10.1037/apl0001220. Epub ahead of print. PMID: [39325376](http://pubmed.gov/39325376).*No results for healthcare sites*
-
+17. Song D, Zhao J, Wu H, Ji X. The impact of work-family conflict on job burnout among community social workers in China. PLoS One. 2025 Mar 12;20(3):e0301614. doi: 10.1371/journal.pone.0301614. PMID: [40072969](https://pubmed.gov/40072969) *Cross-sectional, not quasiexperimental*
+18. Xiong X, Huang X, Shi C, Xu Z, Rao X. Work engagement among new nurses in China: a latent profile analysis. BMJ Open. 2025 Mar 12;15(3):e087497. doi: 10.1136/bmjopen-2024-087497. PMID: [40074257](https://pubmed.gov/40074257) *Cross-sectional, not quasiexperimental*
 
 #### Systematic review(s) excluded - selected list of important review(s)
 1. Holman D, Escaffi‐Schwarz M, Vasquez CA, Irmer JP, Zapf D. Does job crafting affect employee outcomes via job characteristics? A meta‐analytic test of a key job crafting mechanism. Journal of Occupational and Organizational Psychology. 2024 Mar;97(1):47-73. *No results for healthcare sites*
