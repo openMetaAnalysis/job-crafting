@@ -100,6 +100,9 @@ From Harbridge:
 4. Oldham & Hackman, 2010; DOI [10.1002/job.678](http://doi.org/10.1002/job.678)
 5. Wrzesniewski & Dutton, 2001 DOI [10.5465/amr.2001.4378011](http://doi.org/10.5465/amr.2001.4378011)
 
+From PubMed ():
+1. de Jong JP, De Clippeleer I, De Vos A. Enhancing team crafting through proactive motivation: An intervention study. J Appl Psychol. 2025 Feb;110(2):282-296. doi: 10.1037/apl0001220. PMID: [39325376](https://pubmed.gov/39325376).
+
 #### Studies excluded - selected list of important studies
 1. Kooij D, van Woerkom M, Wilkenloh J, Dorenbosch L, Denissen J. A Job Crafting Intervention Study: Increasing Person-Job Fit of Aging Workers. The Gerontologist. 2016 Nov 1;56(Suppl_3):295.  DOI: [10.1093/geront/gnw162.1201](http://doi.org/10.1093/geront/gnw162.1201) *Not in healthcare delivery*
 2. Petrou P, Demerouti E, Peeters MC, Schaufeli WB, Hetland J. Crafting a job on a daily basis: Contextual correlates and the link to work engagement. Journal of Organizational Behavior. 2012 Nov;33(8):1120-41. DOI [10.1002/job.1783](http://doi.org/10.1002/job.1783) *Not an interventional study*
