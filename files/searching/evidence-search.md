@@ -24,13 +24,16 @@ https://scholar.google.com/scholar?q=job+crafting+meta-analysis&hl=en
 
 ## PubMed
 ### Boolean term searching
-[supraventricular tachycardia AND Valsalva AND random\*](https://www.ncbi.nlm.nih.gov/pubmed?cmd=Search&term=supraventricular%20tachycardia%20AND%20Valsalva%20AND%20random*)
-* Retrieves 5 articles in hand (100% sensitivity) (search 6/19/2017)
-* 12 total citations found (search results reviewed 6/x/2017; 0 additional studies found)
+[job crafting[tiab] AND (burn* OR exhaust* OR engage*) AND (random* OR quasi*)](https://pubmed.ncbi.nlm.nih.gov/?term=job+crafting%5Btiab%5D+AND+%28burn%2A+OR+exhaust%2A+OR+engage%2A%29+AND+%28random%2A+OR+quasi%2A%29&sort=pubdate&size=1000))
+* Retrieves x articles in hand (100% sensitivity) (search x/x/2025)
+* x total citations found (search results reviewed x/x/2025; x additional studies found)
 
 ### Vector searching ('Similar to Set' or 'Related citations' search)
 This resources has been discontinued by the National Library of Medicine. Details of the discontinuation and recourse are at:
 * Badgett R, Hamill C, Sampson M, Weightman A, Brassey J, Dean T, Ebell M. Lost in translation - campaign to restore a useful tool not replicated in the new PubMed. OSF; 2020 Oct 5 [cited 2021 Jan 20]; Available from: https://osf.io/3cdny/
+
+### Search alert (started 2025-05-19):
+`job crafting[tiab] AND (burn* OR exhaust* OR engage*) AND (random* OR quasi*)`
 
 ## ClinicalTrials.gov
 `supraventricular tachycardia AND Valsalva`
@@ -59,7 +62,6 @@ Smith GD, Dyson K, Taylor D, Morgans A, Cantwell K. Effectiveness of the Valsalv
 
 Mehta D, Wafa S, Ward DE, Camm AJ. Relative efficacy of various physical manoeuvres in the termination of junctional tachycardia. Lancet. 1988.PMID: [2897005](http://pubmed.gov/2897005).
  * [105 citations ](https://scholar.google.com/scholar?cites=7605211014335624801) (search 6/19/2017)
-
 
 ### Searching 'random*' within the highly citing studyies using Google Scholar (4/21/2017)
 Mehta et al. 
