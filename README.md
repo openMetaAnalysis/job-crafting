@@ -95,7 +95,7 @@ NA
 
 From Harbridge:
 1. Baghdadi et al., 2020. DOI [10.1111/jonm.13141](http://doi.org/10.1111/jonm.13141)
-2. Llorente-Alonso, et al., 2021; DOI [10.3390/jcm10081614]([url](https:// doi.org/10.3390/jcm10081614))
+2. Llorente-Alonso, et al., 2021; DOI [10.3390/jcm10081614](https://doi.org/10.3390/jcm10081614)
 3. Miller, 2015; https://scholarworks.waldenu.edu/dissertations/1363
 4. Oldham & Hackman, 2010; DOI [10.1002/job.678](http://doi.org/10.1002/job.678)
 5. Wrzesniewski & Dutton, 2001 DOI [10.5465/amr.2001.4378011](http://doi.org/10.5465/amr.2001.4378011)
