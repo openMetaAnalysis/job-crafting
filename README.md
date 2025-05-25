@@ -88,17 +88,12 @@ NA
 1.  El-Gazar HE, Abdelhafez S, Ibrahim N, Shawer M, Zoromba MA. Effect of Job Crafting Intervention Program on Harmonious Work Passion and Career Commitment among Nurses: A Randomized Controlled Trial. Mrayyan MT, editor. Journal of Nursing Management. 2023 Jul 13;2023:1–14. DOI: [10.1155/2023/9623866](http://doi.org/10.1155/2023/9623866)
 2.  Gordon HJ, Demerouti E, Le Blanc PM, Bakker AB, Bipp T, Verhagen MAMT. Individual job redesign: Job crafting interventions in healthcare. Journal of Vocational Behavior. 2018 Feb;104:98–114.  doi: [10.1016/j.jvb.2017.07.002](http://dx.doi.org/10.1016/j.jvb.2017.07.002) *We extracted emotional exhaustion results from the original trial as this outcome was not reported by Oprea*
 3. Kuijpers E, Kooij DTAM, van Woerkom M. Align your job with yourself: The relationship between a job crafting intervention and work engagement, and the role of workload. J Occup Health Psychol. 2020 Feb;25(1):1–16. PMID: [31829662](http://pubmed.gov/31829662)
-4. van Leeuwen EH, Knies E, van Rensen ELJ, Taris TW. Stimulating Employability and Job Crafting Behaviour of Physicians: A Randomized Controlled Trial. Int J Environ Res Public Health. 2022 May 6;19(9):5666. doi: 10.3390/ijerph19095666. PMID: [35565061](http://pubmed.gov/35565061). *Outcome measures usable?*
-5. Van Wingerden JV, Bakker AB, Derks D. A test of a job demands-resources intervention. Journal of Managerial Psychology. 2016 Apr 11;31(3):686–701. doi: [10.1108/JMP-03-2014-0086](http://dx.doi.org/10.1108/JMP-03-2014-0086)
+4. Van Wingerden JV, Bakker AB, Derks D. A test of a job demands-resources intervention. Journal of Managerial Psychology. 2016 Apr 11;31(3):686–701. doi: [10.1108/JMP-03-2014-0086](http://dx.doi.org/10.1108/JMP-03-2014-0086)
 
 #### Trial(s) undergoing review
 
 From Harbridge:
 1. Baghdadi et al., 2020. DOI [10.1111/jonm.13141](http://doi.org/10.1111/jonm.13141)
-2. Llorente-Alonso, et al., 2021; DOI [10.3390/jcm10081614](https://doi.org/10.3390/jcm10081614)
-3. Miller, 2015; https://scholarworks.waldenu.edu/dissertations/1363
-4. Oldham & Hackman, 2010; DOI [10.1002/job.678](http://doi.org/10.1002/job.678)
-5. Wrzesniewski & Dutton, 2001 DOI [10.5465/amr.2001.4378011](http://doi.org/10.5465/amr.2001.4378011)
 
 From PubMed weekly alerts:
 1. Yue FY, Wang SJ, Du Y, Sun FY, Wang YP, Guo YF. Effects of a Nurse-Manager Dualistic Intervention (NMDI) Program on Work Engagement and Job Crafting of ICU Burnout Nurses: A Quasi-Experimental Study. J Nurs Manag. 2024. PMID: [40224753](https://pubmed.gov/40224753). From PubMed alert, 2025-04-15
@@ -122,6 +117,13 @@ From PubMed weekly alerts:
 16. de Jong JP, De Clippeleer I, De Vos A. Enhancing team crafting through proactive motivation: An intervention study. J Appl Psychol. 2024 Sep 26. doi: 10.1037/apl0001220. Epub ahead of print. PMID: [39325376](http://pubmed.gov/39325376).*No results for healthcare sites*
 17. Song D, Zhao J, Wu H, Ji X. The impact of work-family conflict on job burnout among community social workers in China. PLoS One. 2025 Mar 12;20(3):e0301614. doi: 10.1371/journal.pone.0301614. PMID: [40072969](https://pubmed.gov/40072969) *Cross-sectional, not quasiexperimental*
 18. Xiong X, Huang X, Shi C, Xu Z, Rao X. Work engagement among new nurses in China: a latent profile analysis. BMJ Open. 2025 Mar 12;15(3):e087497. doi: 10.1136/bmjopen-2024-087497. PMID: [40074257](https://pubmed.gov/40074257) *Cross-sectional, not quasiexperimental*
+19. Llorente-Alonso, et al., 2021; DOI [10.3390/jcm10081614](https://doi.org/10.3390/jcm10081614) *Cross-sectional, not quasiexperimental*
+20. Miller, 2015; https://scholarworks.waldenu.edu/dissertations/1363 *Cross-sectional, not quasiexperimental*
+21. Oldham & Hackman, 2010; DOI [10.1002/job.678](http://doi.org/10.1002/job.678)  *A commentary, not a study*
+21. Wrzesniewski & Dutton, 2001 DOI [10.5465/amr.2001.4378011](http://doi.org/10.5465/amr.2001.4378011)   *Not an interventional study*
+22. van Leeuwen EH, Knies E, van Rensen ELJ, Taris TW. Stimulating Employability and Job Crafting Behaviour of Physicians: A Randomized Controlled Trial. Int J Environ Res Public Health. 2022 May 6;19(9):5666. doi: 10.3390/ijerph19095666. PMID: [35565061](http://pubmed.gov/35565061). *Outcome measures not usable for our analysis, exclude*
+23. Ibrahim AM, Zaghamir DEF, Elsehrawy MG, et al. Impact of job crafting and work engagement on the mental and physical health of palliative care nurses. BMC Nurs. 2025 Apr 10;24(1):404. PMID: [40211286](https://pubmed.gov/40211286) *Has our outcomes, but is an observational study*
+
 
 #### Systematic review(s) excluded - selected list of important review(s)
 1. Holman D, Escaffi‐Schwarz M, Vasquez CA, Irmer JP, Zapf D. Does job crafting affect employee outcomes via job characteristics? A meta‐analytic test of a key job crafting mechanism. Journal of Occupational and Organizational Psychology. 2024 Mar;97(1):47-73. *No results for healthcare sites*
