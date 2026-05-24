@@ -98,6 +98,7 @@ From Harbridge:
 From PubMed weekly alerts:
 1. Yue FY, Wang SJ, Du Y, Sun FY, Wang YP, Guo YF. Effects of a Nurse-Manager Dualistic Intervention (NMDI) Program on Work Engagement and Job Crafting of ICU Burnout Nurses: A Quasi-Experimental Study. J Nurs Manag. 2024. PMID: [40224753](https://pubmed.gov/40224753). From PubMed alert, 2025-04-15
 2. Kowalski L, Finnes A, Koch S, Bujacz A. Optimizing Intervention Components of a Preventive Stress Management mHealth Intervention for Health Care Workers: Experimental Factorial Study. JMIR Form Res. 2025 Aug 25;9:e71032. doi: 10.2196/71032. PMID: [41078177](https://pubmed.gov/41078177). From PubMed alert, 2025-10-14
+3. Delgadillo J, Laker V, Simmonds-Buckley M, Davis B, Furlong-Silva J, Keeble S, Davis O, Southgate A, Royal P, Lucock M, Booth G, Ludbrook J, McDonagh M, Webb C, Tyson-Adams H, Moon J, Thwaites R. Randomized controlled trial of job crafting as a digital health intervention for occupational burnout in psychological therapists. J Consult Clin Psychol. 2026 Apr;94(4):245-251. doi: 10.1037/ccp0000992. PMID: [42080863](https://pubmed.gov/42080863). From PubMed alert 2026-05-05
 
 #### Studies excluded - selected list of important studies
 1. Kooij D, van Woerkom M, Wilkenloh J, Dorenbosch L, Denissen J. A Job Crafting Intervention Study: Increasing Person-Job Fit of Aging Workers. The Gerontologist. 2016 Nov 1;56(Suppl_3):295.  DOI: [10.1093/geront/gnw162.1201](http://doi.org/10.1093/geront/gnw162.1201) *Not in healthcare delivery*
